@@ -18,4 +18,8 @@ The production .csv file contains rows with well identifiers and production meas
 
 We will be culled the dataset to the last 20 years worth of prouction for use in some of our analysis.
 
+Data Exploration by Seaborn -- Overview of wells by different formations
+
+![test](Seaborn_Pairgrid.png)
+
 
