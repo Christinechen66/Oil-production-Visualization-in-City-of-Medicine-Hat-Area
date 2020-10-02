@@ -17,3 +17,5 @@ Production Data¶
 The production .csv file contains rows with well identifiers and production measure combinations (19 per well); the columns have the associated volume or rate by month. The overall file of approximately 13,000 wells, 19 rows per well, and 694 month columns for an approximate 800MB size.
 
 We will be culled the dataset to the last 20 years worth of prouction for use in some of our analysis.
+
+
