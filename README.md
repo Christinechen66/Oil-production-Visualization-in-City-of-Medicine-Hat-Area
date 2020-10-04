@@ -18,12 +18,14 @@ The production .csv file contains rows with well identifiers and production meas
 
 We will be culled the dataset to the last 20 years worth of prouction for use in some of our analysis.
 
-## Data Exploration by Seaborn 
+# Data Exploration by Seaborn 
 This visualization merges the well header with the formation groupings so that we can compare data pairs by formation.
 
 The primary purpose of this analysis was simple to explore what data features.
 
 ![](plots/Seaborn_Pairgrid.png)
+
+# Data Visualization
 
 ## New Wells Drilled variation with Gas Price
 The primary purpose of this analysis was simple to explore what data features.
@@ -50,7 +52,12 @@ All of the oil production is coming form the Lower Cretaceous whereas gas is fro
 ## Revenue trend by time
 ![](plots/Monthly_Revenue_and_Gas_Price.png)
 
+# Conclusion
+The City of Medicine Hat is the third largest operator in the study area (by well count). Production is primarily gas from the Upper Cretaceous.
 
+Well drilling and gas production has been steadily decreasing for the last 10 years, in combination with falling gas pices.
+
+Gross revenue for the City of Medicine Hat is approximately 1/8th of what it would have been ten years ago; therefore it is not surprising that they are choosing to shut in their gas wells.
 
 
 
