@@ -70,5 +70,5 @@ GeoPandas 2019, access September 2019, http://geopandas.org/
 Datetime — Basic date and time types 2019, access September 2019, https://docs.python.org/3/library/datetime.html
 Matplotlib version 3.1.1. 2019, access September 2019, https://matplotlib.org/
 
-### This is a team project fulfilled by University of Calgary Data Science and Analytics Program.
+##### This is a team project fulfilled by University of Calgary Data Science and Analytics program.
 
