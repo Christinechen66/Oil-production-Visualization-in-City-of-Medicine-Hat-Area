@@ -29,7 +29,7 @@ The primary purpose of this analysis was simple to explore what data features.
 
 ## New Wells Drilled variation with Gas Price
 The primary purpose of this analysis was simple to explore what data features.
-![](/plots/Number_of_Active_wells_by_Operator.png)
+![](plots/Number_of_Active_wells_by_Operator.png)
 ![](plots/Gas_Production_Distribution.png)
 ## Map of gas wells colored by Operator
 The primary purpose of this analysis was simple to explore what data features.
