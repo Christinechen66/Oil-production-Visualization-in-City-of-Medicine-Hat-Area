@@ -59,5 +59,16 @@ Well drilling and gas production has been steadily decreasing for the last 10 ye
 
 Gross revenue for the City of Medicine Hat is approximately 1/8th of what it would have been ten years ago; therefore it is not surprising that they are choosing to shut in their gas wells.
 
+# References
+GeoLogic System Database 2019, access September 2019, https://www.geologic.com/products/geoscout/
+GLJ Petroleum Consultant, Commodity Price Forecasts price chart 2019, access October 13, 2019, https://www.gljpc.com/price-charts
+Natural Gas Prices access October 3, 2019 https://www.macrotrends.net/2478/natural-gas-prices-historical-chart
+Numpy Library 2019, access September 2019, https://numpy.org/
+Pandas v0.25.1 Final August 2019, access September 2019, https://pandas.pydata.org
+Plot.ly 2019, access September 2019, https://plot.ly/
+GeoPandas 2019, access September 2019, http://geopandas.org/
+Datetime — Basic date and time types 2019, access September 2019, https://docs.python.org/3/library/datetime.html
+Matplotlib version 3.1.1. 2019, access September 2019, https://matplotlib.org/
 
+### This is a team project fulfilled by University of Calgary Data Science and Analytics Program.
 
