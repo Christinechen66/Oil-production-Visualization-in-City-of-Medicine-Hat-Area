@@ -29,7 +29,8 @@ The primary purpose of this analysis was simple to explore what data features.
 ![test](plots/Number of Active wells by Operator.png)
 
 ## Map of gas wells colored by Operator
-![test](plots/Mapping wells by Operator.png)
+
+![test](plots/Mapping wells by Operator.JPG)
 
 ## Number of wells drilled by each operator
 ![test](plots/Number of Active wells by Operator.png)
