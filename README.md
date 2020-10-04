@@ -39,14 +39,14 @@ The primary purpose of this analysis was simple to explore what data features.
 
 ## Boxplots by formation
 All of the oil production is coming form the Lower Cretaceous whereas gas is from the Upper Cretaceous and Upper Jurassic.
-<img src="images/Boxplot show production by formation.png"/>
+
 
 ![](plots/Boxplot show production by formation.png)
 
 ![](plots/Total Oil and Gas Production by Operator and Formation.png)
 
 
-<img src="images/Total Oil and Gas Production by Operator and Formation.png" width="550px" />
+
 
 
 
