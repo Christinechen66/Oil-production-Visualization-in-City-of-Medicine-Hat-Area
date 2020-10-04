@@ -27,7 +27,7 @@ The primary purpose of this analysis was simple to explore what data features.
 
 ## New Wells Drilled variation with Gas Price
 The primary purpose of this analysis was simple to explore what data features.
-![](/plots/Number of Active wells by Operator.png)
+![](/plots/Number_of_Active_wells_by_Operator.png)
 
 ## Map of gas wells colored by Operator
 The primary purpose of this analysis was simple to explore what data features.
@@ -35,15 +35,14 @@ The primary purpose of this analysis was simple to explore what data features.
 
 ## Number of wells drilled by each operator
 The primary purpose of this analysis was simple to explore what data features.
-![](plots/Number of Active wells by Operator.png)
+![](plots/Number_of_Active_wells_by_Operator.png)
 
-## Boxplots by formation
+## Boxplots find the production data distributon by formation
 All of the oil production is coming form the Lower Cretaceous whereas gas is from the Upper Cretaceous and Upper Jurassic.
 
+![](plots/Boxplot_show_production_by_formation.png)
 
-![](plots/Boxplot show production by formation.png)
-
-![](plots/Total Oil and Gas Production by Operator and Formation.png)
+![](plots/Total_production_by_Operator_Formation.png)
 
 
 
