@@ -23,23 +23,23 @@ This visualization merges the well header with the formation groupings so that w
 
 The primary purpose of this analysis was simple to explore what data features.
 
-![test](plots/Seaborn_Pairgrid.png)
+![](plots/Seaborn_Pairgrid.png)
 
 ## New Wells Drilled variation with Gas Price
-![test](plots/Number of Active wells by Operator.png)
+![](plots/Number of Active wells by Operator.png)
 
 ## Map of gas wells colored by Operator
 
-![test](plots/Mapping wells by Operator.JPG)
+![](plots/Mapping wells by Operator.JPG)
 
 ## Number of wells drilled by each operator
-![test](plots/Number of Active wells by Operator.png)
+![](plots/Number of Active wells by Operator.png)
 
 ## Boxplots by formation
 All of the oil production is coming form the Lower Cretaceous whereas gas is from the Upper Cretaceous and Upper Jurassic.
-![test](plots/Boxplot show production by formation.png)
+![](plots/Boxplot show production by formation.png)
 
-![test](plots/Gas Production Distribution.png)
+![](plots/Gas Production Distribution.png)
 
 
 
