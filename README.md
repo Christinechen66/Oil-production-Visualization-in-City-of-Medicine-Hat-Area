@@ -30,7 +30,7 @@ The primary purpose of this analysis was simple to explore what data features.
 
 ## Map of gas wells colored by Operator
 
-![](plots/Mapping wells by Operator.JPG)
+![test](plots/plots/Mapping wells by Operator.JPG)
 
 ## Number of wells drilled by each operator
 ![](plots/Number of Active wells by Operator.png)
