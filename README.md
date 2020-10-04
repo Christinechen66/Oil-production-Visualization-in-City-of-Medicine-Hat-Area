@@ -45,7 +45,7 @@ All of the oil production is coming form the Lower Cretaceous whereas gas is fro
 ![](plots/Total_production_by_Operator_Formation.JPG)
 
 ## How drilling activity influenced by gas price
-![](Well_Counts_and_Gas_price_Change .JPG)
+![](plots/Well_Counts_and_Gas_price_Change.JPG)
 
 ## Revenue trend by time
 ![](plots/Monthly_Revenue_and_Gas_Price.png)
